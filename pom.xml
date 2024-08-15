@@ -33,7 +33,7 @@
     </build>
 </project>
 
-<!-- 
+<!-- information about project and all dependecies
 1)Project Structure
 xmlns: Specifies the XML namespace for the Maven POM file.
 xmlns:xsi: Defines the XML Schema instance namespace.
